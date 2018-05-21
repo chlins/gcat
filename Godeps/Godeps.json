@@ -1,0 +1,176 @@
+{
+	"ImportPath": "github.com/chlins/cat",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/alecthomas/chroma",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/formatters",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/formatters/html",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/a",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/b",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/c",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/circular",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/d",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/e",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/f",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/g",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/h",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/i",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/internal",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/j",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/k",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/l",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/m",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/n",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/o",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/p",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/q",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/r",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/s",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/t",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/v",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/w",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/x",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/lexers/y",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/chroma/styles",
+			"Comment": "v0.4.0-20-g1b755a9",
+			"Rev": "1b755a90bd109f170385cb3964f0abdfd3451145"
+		},
+		{
+			"ImportPath": "github.com/danwakefield/fnmatch",
+			"Rev": "cbb64ac3d964b81592e64f957ad53df015803288"
+		},
+		{
+			"ImportPath": "github.com/dlclark/regexp2",
+			"Comment": "v1.1.6-3-g7632a26",
+			"Rev": "7632a260cbaf5e7594fc1544a503456ecd0827f1"
+		},
+		{
+			"ImportPath": "github.com/dlclark/regexp2/syntax",
+			"Comment": "v1.1.6-3-g7632a26",
+			"Rev": "7632a260cbaf5e7594fc1544a503456ecd0827f1"
+		}
+	]
+}
