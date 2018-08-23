@@ -1,14 +1,14 @@
-# cat
+# gcat
 
 A pure cat tool with syntax highlight.
 
-### Usage
+## Usage
 
-Clone it if you have golang environment and then `go build` or just `go get -u github.com/chlins/cat`
+Clone it if you have golang environment and then `go build` or just `go get -u github.com/chlins/gcat`.
 
-`cat main.go`
+`gcat main.go`
 
-![](assets/screen.png)
+![screentshot](https://images-1251800273.cos.ap-chengdu.myqcloud.com/github/gcat.png)
 
 ### LICENSE
 
